@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Kryptonite",
+  "base_artist": "3ドアーズ・ダウン",
+  "createdAt": "2026-02-15T16:51:21.709558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spiders, Crocodiles & Kryptonite",
+      "artist": "Faithless",
+      "has_synced": true,
+      "path": "select/01_Spiders,_Crocodiles_&_Kryptonite_Faithless.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kryptonite (I'm on It)",
+      "artist": "Big Boi feat. Killer Mike",
+      "has_synced": false,
+      "path": "select/02_Kryptonite_(I'm_on_It)_Big_Boi_feat._Killer_Mike.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kryptonite",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/03_Kryptonite_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pineapple Kryptonite",
+      "artist": "ATARASHII GAKKO!",
+      "has_synced": true,
+      "path": "select/04_Pineapple_Kryptonite_ATARASHII_GAKKO!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kryptonite",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/05_Kryptonite_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kryptonite (bonus)",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/06_Kryptonite_(bonus)_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kryptonite",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/07_Kryptonite_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kryptonite",
+      "artist": "3 Doors down",
+      "has_synced": true,
+      "path": "select/08_Kryptonite_3_Doors_down.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pineapple Kryptonite",
+      "artist": "ATARASHII GAKKO!",
+      "has_synced": true,
+      "path": "select/09_Pineapple_Kryptonite_ATARASHII_GAKKO!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kryptonite",
+      "artist": "Emanuel",
+      "has_synced": true,
+      "path": "select/10_Kryptonite_Emanuel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kryptonite",
+      "artist": "Three Doors Down",
+      "has_synced": true,
+      "path": "select/11_Kryptonite_Three_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kryptonite",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/12_Kryptonite_3_Doors_Down.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kryptonite",
+      "artist": "3 Doors Down",
+      "has_synced": false,
+      "path": "select/pl_01_Kryptonite_3_Doors_Down.txt"
+    }
+  ]
+}
