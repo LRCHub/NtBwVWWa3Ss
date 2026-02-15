@@ -1,0 +1,45 @@
+# 3ドアーズ・ダウン – Kryptonite
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:20.00] I took a walk around the world to ease my troubled mind
+[00:24.92] I left my body lying somewhere in the sands of time
+[00:29.50] Well I watched the world float to the dark side of the moon
+[00:34.40] I feel there's nothing I can do
+[00:38.82] Yeah
+[00:40.82] 
+[00:49.17] I watched the world float to the dark side of the moon
+[00:54.03] After all I knew it had to be something to do with you
+[00:59.06] I really don't mind what happens now and then
+[01:03.46] As long as you'll be my friend at the end
+[01:08.71] If I go crazy then will you still call me Superman?
+[01:13.59] If I'm alive and well, will you be there holding my hand?
+[01:18.43] I'll keep you by my side with my superhuman might
+[01:23.52] Kryptonite
+[01:28.52] 
+[01:37.87] You called me strong, you called me weak
+[01:40.00] But still your secrets I will keep
+[01:42.50] You took for granted all the times I never let you down
+[01:47.44] You stumbled in and bumped your head
+[01:50.00] If not for me then you'd be dead
+[01:52.40] I picked you up and put you back on solid ground
+[01:57.20] If I go crazy then will you still call me Superman?
+[02:02.10] If I'm alive and well, will you be there holding my hand?
+[02:06.80] I'll keep you by my side with my superhuman might
+[02:12.10] Kryptonite
+[02:17.10] 
+[02:45.80] If I go crazy then will you still call me Superman?
+[02:50.74] If I'm alive and well, will you be there holding my hand?
+[02:55.30] I'll keep you by my side with my superhuman might
+[03:00.65] Kryptonite
+[03:02.60] Yeah!
+[03:05.20] If I go crazy then will you still call me Superman?
+[03:10.00] If I'm alive and well, will you be there holding my hand?
+[03:14.94] I'll keep you by my side with my superhuman might
+[03:20.10] Kryptonite
+[03:25.10] 
+[03:27.50] Oh, whoa, whoa
+[03:32.30] Oh, whoa, whoa
+[03:37.30] Oh, whoa, whoa
+```
